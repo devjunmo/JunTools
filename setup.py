@@ -1,8 +1,8 @@
 import setuptools
 
 setuptools.setup(
-    name="JunTools_yajumo93",
-    version="0.1",
+    name="YjmTools",
+    version="0.0.1",
     license='MIT',
     author="Junmo Yang",
     author_email="yajumo93@gmail.com",
